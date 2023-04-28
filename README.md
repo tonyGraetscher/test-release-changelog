@@ -3,6 +3,6 @@
 ## Features Fisch
 
 -   [x] leben
--   [] schwimmen
--   [] blubern
--   [] fressen
+-   [x] schwimmen
+-   [x] blubern
+-   [x] fressen
