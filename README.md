@@ -3,7 +3,7 @@
 ## Features Kuh
 
 -   [x] Leben
--   [] Melken
+-   [x] Melken
 -   [x] Laufen
--   [] Muhen
+-   [x] Muhen
 -   [x] Fressen
