@@ -4,6 +4,6 @@
 
 -   [x] Leben
 -   [] Melken
--   [] Laufen
+-   [x] Laufen
 -   [] Muhen
--   [] Fressen
+-   [x] Fressen
