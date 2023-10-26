@@ -10,9 +10,10 @@ jobs:
             - uses: actions/checkout@v2
               with:
                   fetch-depth: 0
+                  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
             - uses: BobAnkh/auto-generate-changelog@v1.2.5
               with:
-                  REPO_NAME: "tonyGraetscher/test-release-changelog"
+                  REPO_NAME: ""
                   ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
                   PATH: "CHANGELOG.md"
                   COMMIT_MESSAGE: "docs(CHANGELOG): update release notes"
