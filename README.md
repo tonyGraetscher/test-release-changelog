@@ -18,5 +18,5 @@
 ## Features Text
 
 -   [x] Buchstaben
--   [ ] Wörter
--   [ ] Sätze
+-   [x] Wörter
+-   [x] Sätze
