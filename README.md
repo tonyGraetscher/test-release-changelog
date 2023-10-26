@@ -1,6 +1,5 @@
 # test-release-changelog
 
-
 ## Features Fisch
 
 -   [x] leben
@@ -16,3 +15,8 @@
 -   [x] Muhen
 -   [x] Fressen
 
+## Features Text
+
+-   [x] Buchstaben
+-   [ ] Wörter
+-   [ ] Sätze
